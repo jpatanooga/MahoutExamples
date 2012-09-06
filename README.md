@@ -16,8 +16,8 @@
 * run the unit test
 
 * output should look roughly like:
-<blockquote>
-<p>
+
+<code>
 	11314 training files
 	         1     -2.996     -2.996       0.00 sci.space comp.graphics
 	         2     -3.163     -3.079       0.00 misc.forsale sci.space
@@ -62,5 +62,4 @@
 	      8000     -1.032     -1.305      78.42 rec.motorcycles rec.motorcycles
 	     10000     -1.875     -1.213      79.16 sci.electronics sci.electronics
 
-</p>
-</blockquote> 
+</code>
