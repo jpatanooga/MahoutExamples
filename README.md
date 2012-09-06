@@ -18,6 +18,7 @@
 * output should look roughly like:
 
 <code>
+<pre>
 	11314 training files
 	         1     -2.996     -2.996       0.00 sci.space comp.graphics
 	         2     -3.163     -3.079       0.00 misc.forsale sci.space
@@ -61,5 +62,5 @@
 	      7000     -0.007     -1.371      76.98 rec.sport.hockey rec.sport.hockey
 	      8000     -1.032     -1.305      78.42 rec.motorcycles rec.motorcycles
 	     10000     -1.875     -1.213      79.16 sci.electronics sci.electronics
-
+</pre>
 </code>
